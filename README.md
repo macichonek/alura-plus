@@ -1,5 +1,3 @@
-Descrição do seu projeto;
-Funcionalidades;
-Como os usuários podem utilizá-lo;
-Onde os usuários podem encontrar ajuda sobre seu projeto;
-Autores do projeto.
+Site demostração do curso da Alura.
+
+O mesmo foi desenvolvido em HTML, CSS e JS.
